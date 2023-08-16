@@ -1,4 +1,3 @@
-// Button to inititate install.
 const butInstall = document.getElementById('buttonInstall');
 
 window.addEventListener('beforeinstallprompt', (event) => {
