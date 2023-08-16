@@ -1,11 +1,11 @@
 # Text Editor - Progressive Web App
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/mit/)
-[![Deployed Application](https://img.shields.io/badge/Heroku-Deployed_Application-purple?logo=heroku)]()
+[![Deployed Application](https://img.shields.io/badge/Heroku-Deployed_Application-purple?logo=heroku)](https://jate-js-793743c34898.herokuapp.com/)
 [![Github Profile](https://img.shields.io/badge/GitHub-Saduhub-blue?logo=github)](https://github.com/saduhub)
 
 ## Description
 
-This project is a text editor that meets the standards of a progressive web application. The motivation behind building this project was to demonstrate proficiency in working with Webpack, Express, Node Package Manager, Lighthouse, Service Workers, Babel and Heroku technologies. By creating this code editor, I aimed to showcase my skills in designing and implementing an application that offers offline functionality and is optimized for performance. This code provides a solutions for an application that offers a smooth and desirable user experience. Link to [deployed application]().
+This project is a text editor that meets the standards of a progressive web application. The motivation behind building this project was to demonstrate proficiency in working with Webpack, Express, Node Package Manager, Lighthouse, Service Workers, Babel and Heroku technologies. By creating this code editor, I aimed to showcase my skills in designing and implementing an application that offers offline functionality and is optimized for performance. This code provides a solutions for an application that offers a smooth and desirable user experience. Link to [deployed application](https://jate-js-793743c34898.herokuapp.com/).
 
 Throughout the development of this project, I gained valuable insights into the following areas:
 
@@ -42,9 +42,9 @@ To set up the project locally, follow these steps:
 
 ## Usage
 
-1. Access the code editor on [Heroku]().
+1. Access the code editor on [Heroku](https://jate-js-793743c34898.herokuapp.com/).
 2. Install the PWA (Optional): Press the Install button and confirm **OR** When you access the PWA for the first time, most modern web browsers will prompt you to install it as a standalone app on your device. This will create an icon on your home screen or app drawer, making it easy to access the PWA just like any other app.
-3. Enjoy a JS code editor with offline functionality, responsive design, fast loading times, and the ability to be added to your home screen.
+3. Enjoy a JS text editor with offline functionality, responsive design, fast loading times, and the ability to be added to your home screen.
 
 ## Contributors
 
